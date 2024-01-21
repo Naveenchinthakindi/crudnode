@@ -1,0 +1,29 @@
+# Node.js specific
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# npm configuration
+npm-debug.log
+package-lock.json
+package.json
+appveyor.yml
+appveyor.yml
+# yarn configuration
+yarn-error.log
+yarn-debug.log
+yarn.lock
+.yarn-cache
+.yarn
+# OS temporary directories (e.g. on Windows)
+temp
+tmp
